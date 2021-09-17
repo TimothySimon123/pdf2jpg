@@ -2,7 +2,9 @@
 A simple yad GUI to convert PDF to JPG 
 
 A small GUI program using yad.
-- Converts pdf to jpg using pdftoppm
 - Drag and drop functionality
-- Supports bulk conversion
+- Easy bulk conversion
+- Converts pdf to jpg using pdftoppm
 - Has a progress bar
+
+Current version: pdf2jpg alpha 0.1
