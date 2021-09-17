@@ -1,5 +1,5 @@
 # pdf2jpg
-A yad GUI using pdftoppm to convert pdf to jpg
+A simple yad GUI to convert PDF to JPG 
 
 A small GUI program using yad.
 - Converts pdf to jpg using pdftoppm
