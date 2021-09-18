@@ -8,3 +8,5 @@ A small GUI program using yad.
 - Has a progress bar
 
 Current version: pdf2jpg alpha 0.1
+
+This project is succeeded by https://github.com/TimothySimon123/file-converter
